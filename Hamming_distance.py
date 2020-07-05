@@ -29,3 +29,8 @@ class Solution:
             if elem == '1':
                 ans += 1
         return ans
+
+"""
+Runtime: 48 ms
+Memory Usage: 13.8 MB
+"""
